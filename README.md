@@ -1,1 +1,1 @@
-# Pneumonia-Disease-using-MobileNet-Random-Forest
+Disease Classification using-MobileNet-Random-Forest
